@@ -69,7 +69,7 @@ else if (total == 7)
 {
     Console.WriteLine("You win a trip for two!");
 }
-else if(total == 6)
+else if (total == 6)
 {
     Console.WriteLine("You win a kitten!");
 }
