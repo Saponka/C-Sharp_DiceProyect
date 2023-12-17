@@ -1,0 +1,14 @@
+D:\Programacion\Proyectos\CsharpProjects\DiceProject\bin\Debug\net8.0\DiceProject.exe
+D:\Programacion\Proyectos\CsharpProjects\DiceProject\bin\Debug\net8.0\DiceProject.deps.json
+D:\Programacion\Proyectos\CsharpProjects\DiceProject\bin\Debug\net8.0\DiceProject.runtimeconfig.json
+D:\Programacion\Proyectos\CsharpProjects\DiceProject\bin\Debug\net8.0\DiceProject.dll
+D:\Programacion\Proyectos\CsharpProjects\DiceProject\bin\Debug\net8.0\DiceProject.pdb
+D:\Programacion\Proyectos\CsharpProjects\DiceProject\obj\Debug\net8.0\DiceProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\Proyectos\CsharpProjects\DiceProject\obj\Debug\net8.0\DiceProject.AssemblyInfoInputs.cache
+D:\Programacion\Proyectos\CsharpProjects\DiceProject\obj\Debug\net8.0\DiceProject.AssemblyInfo.cs
+D:\Programacion\Proyectos\CsharpProjects\DiceProject\obj\Debug\net8.0\DiceProject.csproj.CoreCompileInputs.cache
+D:\Programacion\Proyectos\CsharpProjects\DiceProject\obj\Debug\net8.0\DiceProject.dll
+D:\Programacion\Proyectos\CsharpProjects\DiceProject\obj\Debug\net8.0\refint\DiceProject.dll
+D:\Programacion\Proyectos\CsharpProjects\DiceProject\obj\Debug\net8.0\DiceProject.pdb
+D:\Programacion\Proyectos\CsharpProjects\DiceProject\obj\Debug\net8.0\DiceProject.genruntimeconfig.cache
+D:\Programacion\Proyectos\CsharpProjects\DiceProject\obj\Debug\net8.0\ref\DiceProject.dll
