@@ -52,15 +52,27 @@ if ((roll1 == roll2) || (roll2 == roll3) || (roll1 == roll3))//si salen dobles s
     }
 }
 //Se gana el juego si la suma es mayor a 15 puntos 
-if (total > 15)
+/* if (total > 15)
 {
     Console.WriteLine("You win!");
-}
-//Se pierde si la suma es menor a 15 puntos
-/* if (total < 15)
-{
-    Console.WriteLine("Sorry, you lose.");
 } */
+//Se gana el juego si la suma es mayor a 15 puntos 
+if (total >= 16)
+{
+    Console.WriteLine("You win a new car!");
+}
+else if (total >= 10)
+{
+    Console.WriteLine("You win a new laptop!");
+}
+else if (total == 7)
+{
+    Console.WriteLine("You win a trip for two!");
+}
+else if(total == 6)
+{
+    Console.WriteLine("You win a kitten!");
+}
 else
 {
     Console.WriteLine("Sorry, you lose.");
