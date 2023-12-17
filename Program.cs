@@ -54,7 +54,11 @@ if (total > 15)
     Console.WriteLine("You win!");
 }
 //Se pierde si la suma es menor a 15 puntos
-if (total < 15)
+/* if (total < 15)
+{
+    Console.WriteLine("Sorry, you lose.");
+} */
+else
 {
     Console.WriteLine("Sorry, you lose.");
 }

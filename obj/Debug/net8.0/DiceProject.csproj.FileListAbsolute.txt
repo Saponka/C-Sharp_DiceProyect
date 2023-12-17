@@ -12,3 +12,4 @@ D:\Programacion\Proyectos\CsharpProjects\DiceProject\obj\Debug\net8.0\refint\Dic
 D:\Programacion\Proyectos\CsharpProjects\DiceProject\obj\Debug\net8.0\DiceProject.pdb
 D:\Programacion\Proyectos\CsharpProjects\DiceProject\obj\Debug\net8.0\DiceProject.genruntimeconfig.cache
 D:\Programacion\Proyectos\CsharpProjects\DiceProject\obj\Debug\net8.0\ref\DiceProject.dll
+D:\Programacion\Proyectos\CsharpProjects\DiceProject\obj\Debug\net8.0\DiceProject.sourcelink.json
