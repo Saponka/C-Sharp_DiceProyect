@@ -36,11 +36,24 @@ int total = roll1 + roll2 + roll3;
 Console.WriteLine();
 Console.WriteLine($"Dice roll: {roll1} + {roll2} + {roll3} = {total}");
 
-if (total > 14)
+//si salen dobles se suman al total 2 puntos extras
+if ((roll1 == roll2) || (roll2 == roll3) || (roll1 == roll3))
+{
+    Console.WriteLine("You rolled doubles! +2 bonus to total!");
+    total += 2;
+}
+//si salen triples se suman al total 6 puntos extras
+if ((roll1 == roll2) && (roll2 == roll3)) 
+{
+    Console.WriteLine("You rolled triples! +6 bonus to total!");
+    total += 6;
+}
+//Se gana el juego si la suma es mayor a 15 puntos 
+if (total > 15)
 {
     Console.WriteLine("You win!");
 }
-
+//Se pierde si la suma es menor a 15 puntos
 if (total < 15)
 {
     Console.WriteLine("Sorry, you lose.");
